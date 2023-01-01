@@ -1,2 +1,0 @@
-- name: Node to GH
-  uses: FdelMazo/node-to-gh-action@v1
